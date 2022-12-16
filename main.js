@@ -13,6 +13,7 @@ new Vue({
     methods: {
         CouponApplied() {
             alert("test");
+        //    Test
         }
     }
 
